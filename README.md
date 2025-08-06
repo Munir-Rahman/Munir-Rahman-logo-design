@@ -2,7 +2,7 @@
 
 This is a modern and minimal website featuring the **Munir Rahman** personal brand logo with a smooth **360° rotating animation**. It’s perfect for showcasing your identity as a front-end developer with clean, elegant design.
 
-![Codehal Logo Screenshot](./image/logo.JPG)
+![Codehal Logo Screenshot](./image/logo.png)
 
 ---
 
